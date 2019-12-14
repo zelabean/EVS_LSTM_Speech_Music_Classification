@@ -6,3 +6,6 @@ https://www.mdpi.com/2073-8994/10/11/605
 
 Using LSTM and EVS's Feature for speech-music classification.
 Inputs are 12 feartures that extrated from 3gpp evs-codec (Enhanced Voice Service)
+
+I think my code has some error.
+So I will update code by pytorch maybe until 2019 gone.
